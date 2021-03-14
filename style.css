@@ -68,23 +68,3 @@
 	text-align: center;
 }
 
-.center .buttons{
-	margin: 35px 280px;	
-}
-.buttons button{
-	height: 50px;
-	width: 150px;
-	font-size: 18px;
-	font-weight: 600;
-	color: #ffb3b3;
-	background: red;
-	outline: none;
-	cursor: pointer;
-	border: 1px solid #cc0000;
-	border-radius: 25px;
-	transition: .4s;
-}
-
-.buttons button:hover{
-	background: #cc0000;
-}
